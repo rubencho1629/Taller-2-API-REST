@@ -38,10 +38,10 @@ Este proyecto es una aplicación web simple que utiliza Flask para proporcionar 
 
 ## Ejemplos de Uso
 
-- `http://127.0.0.1:5000/como_hace/gato`
-- `http://127.0.0.1:5000/como_hace/perro`
-- `http://127.0.0.1:5000/como_hace/huron`
-- `http://127.0.0.1:5000/como_hace/boa`
+- `http://127.0.0.1:5000/api/como_hace/gato`
+- `http://127.0.0.1:5000/api/como_hace/perro`
+- `http://127.0.0.1:5000/api/como_hace/huron`
+- `http://127.0.0.1:5000/api/como_hace/boa`
 
 ## Contribuciones
 
