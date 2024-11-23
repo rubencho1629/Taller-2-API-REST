@@ -6,3 +6,4 @@ class Huron:
 
     def hacer(self):
         return f"El hurón {self.nombre} juega, salta y hace sonidos suaves 'dook dook'."
+''
